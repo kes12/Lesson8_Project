@@ -1,0 +1,6 @@
+My 5 features were:
+1. Changed the Load Movie button to a reddish garnet color to resemble FSU
+2. Added a carousel slideshow of movies that are in theaters
+3. Added a Film glyphicon after movie information
+4. used the <mark> tag to highlight all the id placeholders and movie name
+5. Added a tab with a dropdown menu at the top
